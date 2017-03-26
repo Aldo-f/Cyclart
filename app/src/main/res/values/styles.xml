@@ -12,7 +12,7 @@
 
     <!-- Extra Style items -->
     <!-- TextView -->
-    <!-- TODO: Add CSS to TextView -->
+
     <style name="MyTextViewStyle" parent="android:Widget.TextView">
         <!--<item name="android:textAllCaps">true</item>-->
         <item name="android:textSize">16sp</item>
