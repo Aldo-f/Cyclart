@@ -1,19 +1,23 @@
 <resources>
-    <string name="app_name">Cyclart</string>
-    <string name="description">Een nieuwe fiets?
-        \nHeb je platte band?
-        \nEen taxifiets, betjak, riksja, bakfiets of promofiets huren?
-        \nEen fietskoerier nodig?
+    <string name="app_name" translatable="false">Cyclart</string>
+    <string name="description">A new bicycle?
+        \nA flat tire?
+        \nA taxi bike, betjak, rickshaw, tricycle or hire a promo bicycle?
+        \nIn need of a bike messenger?
         \n
-        \nKom langs in de winkel of contacteer ons telefonisch of via e-mail.
-        \nWij geven u graag antwoord op al uw vragen.</string>
-    <string name="ImageDescription">riksja</string>
+        \nStop by the store or contact us via phone or email.
+        \nWe will gladly answer all your questions.</string>
+    <string name="ImageDescription" translatable="false">riksja</string>
     <string name="location">Sint-Markoenstraat 21a
-        \n9032 Wondelgem</string>
-    <string name="hours">Van maandag tot vrijdag:
+        \n9032 Wondelgem
+    \nBelgium</string>
+    <string name="hours">From Monday till Friday:
 \n09u30 – 12u30 en 13u30 – 18u30
-\nZaterdag tot 17u00
-\nGesloten op dinsdag, zondag en feestdagen.</string>
+\nSaturday until 17u00
+\nClosed Tuesdays, Sundays and holidays.</string>
+    <string name="email" translatable="false">info@cyclart.be</string>
+    <string name="gsm">+32 0473/96.91.35</string>
+    <string name="website">www.cyclart.be</string>
     <string name="contact">Contact</string>
 
 

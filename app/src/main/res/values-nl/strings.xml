@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cyclart</string>
+    <string name="description">Een nieuwe fiets?
+        \nHeb je platte band?
+        \nEen taxifiets, betjak, riksja, bakfiets of promofiets huren?
+        \nEen fietskoerier nodig?
+        \n
+        \nKom langs in de winkel of contacteer ons telefonisch of via e-mail.
+        \nWij geven u graag antwoord op al uw vragen.</string>
+    <string name="hours">Van maandag tot vrijdag:
+        \n09u30 – 12u30 en 13u30 – 18u30
+        \nZaterdag tot 17u00
+        \nGesloten op dinsdag, zondag en feestdagen.</string>
+    <string name="location">Sint-Markoenstraat 21a
+        \n9032 Wondelgem</string>
+    <string name="gsm">0473/96.91.35</string>.
+    <string name="website">www.cyclart.be</string>
+    <string name="contact">Contact</string>
+</resources>
