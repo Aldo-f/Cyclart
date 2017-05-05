@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Cyclart</string>
     <string name="description">Een nieuwe fiets?
         \nHeb je platte band?
         \nEen taxifiets, betjak, riksja, bakfiets of promofiets huren?
@@ -17,5 +16,4 @@
     <string name="gsm">0473/96.91.35</string>.
     <string name="website">www.cyclart.be</string>
     <string name="contact">Contact</string>
-    <string name="ImageDescription" translatable="false">riksja</string>
 </resources>
