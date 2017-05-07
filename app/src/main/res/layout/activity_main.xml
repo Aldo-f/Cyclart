@@ -82,6 +82,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:autoLink="map"
                 android:text="@string/location"/>
         </LinearLayout>
 
@@ -102,6 +103,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:autoLink="phone"
                 android:text="@string/gsm"/>
         </LinearLayout>
 
@@ -123,6 +125,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:autoLink="email"
                 android:text="@string/email"/>
         </LinearLayout>
 
@@ -143,6 +146,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:autoLink="web"
                 android:text="@string/website"/>
         </LinearLayout>
 
